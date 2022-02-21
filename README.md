@@ -1,4 +1,4 @@
-# snap
+# public snap labs templates
 
 https://dashboard.snaplabs.io/templates/098f6f57-d9ca-43cc-4a18-0c4ef8e00447
 
